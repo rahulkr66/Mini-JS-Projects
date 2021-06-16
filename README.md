@@ -6,3 +6,4 @@ Repository for one mini project everyday
 ### 4: Blurry loading screen
 ### 5: Animated Scrolling
 ### 6: Split Landing Page
+### 7: Login Form with wave effect
