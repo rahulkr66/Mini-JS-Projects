@@ -7,3 +7,4 @@ Repository for one mini project everyday
 ### 5: Animated Scrolling
 ### 6: Split Landing Page
 ### 7: Login Form with wave effect
+### 8: FAQ Boxes
