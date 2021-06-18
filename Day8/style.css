@@ -28,7 +28,7 @@ h1{
     padding: 30px;
     position: relative;
     overflow: hidden;
-    transition:  0.4s ease-n;
+    transition:  0.4s ease-in;
 }
 
 .faq.active{
