@@ -9,3 +9,4 @@ Repository for one mini project everyday
 ### 7: Login Form with wave effect
 ### 8: FAQ Boxes
 ### 9: Dad Jokes API
+### 10: MovieDB API
