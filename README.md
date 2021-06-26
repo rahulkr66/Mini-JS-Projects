@@ -12,3 +12,4 @@ Repository for one mini project everyday
 ### 10: MovieDB API
 ### 11: Drag-And-Drop
 ### 12: Draw app
+### 13: Notes App using LocalStorageAPI
